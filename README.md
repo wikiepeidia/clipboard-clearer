@@ -1,4 +1,5 @@
 # clipboard-clearer
-batch file quickly fix your goofy clipboard
+This batch file quickly fixes issues with your clipboard.
+
 # REASON:
-ON windows, for anyone who copy regulary, with some apps such as PHONE LINK thing, or copying 3d model thing ... there might be a chance that an app lock your clipboard so it cant be copied anything. therefore i use chat gpt to erase the need of typing cmd /c "echo.|clip" .
+On Windows, when copying regularly with certain apps such as PHONE LINK or 3D modeling software, there might be a chance that an app locks your clipboard, preventing anything from being copied. Therefore, I use a batch file to erase the need for typing "cmd /c "echo.|clip"."
